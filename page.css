@@ -259,3 +259,19 @@ img{
     max-width: 100px;
     max-height: 100px;
 }
+.first{
+    background-image: url(images/piramide.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.deux{
+text-align: center;
+font-family:'lobster',cursive ;
+color: blue;
+font-size: 3em;
+}
+.ere{
+    font-family:'lobster',cursive ;
+    font-size: 3em;
+}
