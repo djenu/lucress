@@ -1,0 +1,69 @@
+:required{
+    background-color: red;
+}
+h1{
+    
+    font-family:'lobster',cursive ;
+    font-size: 3em;
+    text-align: center;
+    color:blue ;
+    padding: 50px;
+    background-image: url("image/lulu.jpg");
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+  
+}
+h2,h3,h4,h5
+{
+
+    font-family:'lobster',cursive ;
+    font-size: 3em;
+    text-align: center;
+    color:black ;
+    padding: 50px;
+    background-image: url("image/lulu.jpg");
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+    
+}
+p{
+    font-family:'lobster',cursive ;
+    color: black;
+    padding-left: 20px;
+    font-size: 2em;
+}
+.image floltante{
+    float: right;
+    
+
+  
+}
+.épice{
+    margin: 0;
+    padding: 0.3rem;
+    background-color: #eee;
+}
+.épice >h1,
+.ail{
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+
+}
+.poivre_blanc{
+    background: right/contain content-box border-box no-repeat url('/media/example/épices') white;
+}
+.poivre_blanc >h2
+.gingembre{
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+    
+}
+.rondelle{
+    margin: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1.2rem;
+}
